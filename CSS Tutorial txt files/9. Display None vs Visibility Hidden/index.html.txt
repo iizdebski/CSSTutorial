@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="">
+<head>   
+    <title>CSS Tutorial - Display None vs
+        Visibility Hidden
+    </title>
+    <link rel="stylesheet" href="file9.css">
+</head>
+
+<body>
+    <h1>Hello I'm One</h1>
+    <h2>Hello I'm second</h2>
+</body>
+</html>

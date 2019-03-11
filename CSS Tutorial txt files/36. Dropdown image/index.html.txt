@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="">
+<head>    
+    <title>Dropdown Image
+    </title>
+    
+    <link rel="stylesheet" href="file36.css">    
+    </head>
+<body>
+    
+    <div class="container">
+        <img src="https://i.ytimg.com/vi/TN0cxBYh8t8/maxresdefault.jpg"width="50">
+        <div class="content">
+            <img src="http://www.crohnhellas.gr/wp-content/uploads/2018/06/%CE%9A%CE%91%CE%A6%CE%95%CE%A3-%CE%9A%CE%91%CE%99-%CE%A3%CE%9D%CE%91%CE%9A.jpg"
+                 width="300">
+            <div class="text">NICE PANTS</div>                     
+        </div>                    
+    </div>    
+</body>
+</html>

@@ -1,0 +1,17 @@
+
+.banner {
+    width:100%;
+    height:100px; 
+    position:relative;
+    background-image:         url(https://i0.wp.com/www.healthline.com/hlcmsresource/images/AN_images/espresso-ground-coffee-beans-1296x728.jpg?w=1155&h=1528);
+}
+
+.inside {
+   color: red;    
+    background-color: white;
+    opacity: 0.60;
+    position:absolute;  
+    top:50%;
+    left:50%;
+    font-size: 30px;
+}

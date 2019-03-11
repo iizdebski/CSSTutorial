@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <title>CSS Tutorial - Display:Inline Block
+    </title>
+    
+    <link rel="stylesheet" href="file20.css">
+    </head>
+<body>
+    
+    <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    <p>MBT Revolution</p>
+    
+</body>
+</html>

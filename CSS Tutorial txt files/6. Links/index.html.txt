@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>CSS Tutorial - Links</title>
+<link rel="stylesheet" href="file4.css">
+</head>
+
+<body>
+<a
+href="http://www.google.com">Google</a>
+<a href="http://www.facebook.com"
+target="_blank">Facebook</a>
+    
+</body>
+</html>

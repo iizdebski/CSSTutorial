@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CSS Tutorial - Text Continued
+    </title>
+    <link rel="stylesheet" href="main.css">
+    <link href="https://fonts.googleapis.com/css?family=Diplomata+SC" rel="stylesheet">
+</head>
+
+    
+<body>
+    <h1>This is Website about Tea</h1>
+    <p>Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to Asia[3] After water, it is the most widely consumed drink in the world.[4] There are many different types of tea; some teas, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour,[5] while others have vastly different profiles that include sweet, nutty, floral or grassy notes.    
+    </p>
+    <a
+       href="http://www.google.com">Google</a>
+</body>
+</html>

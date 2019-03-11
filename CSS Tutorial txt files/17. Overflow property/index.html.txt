@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <title>CSS Tutorial - Overflow 
+        Property</title>
+    
+    <link rel=stylesheet
+          href="file17.css">
+</head>
+
+<body>
+    <div>
+        Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to Asia.[3] Aftter water, it is the most widely consumed drink in the world.[4] There are many different types of tea; some teas, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour,[5] while others have vastly different rpofiles that include sweet, nutty, floral or grassy notes.        
+    </div>    
+</body>
+</html>

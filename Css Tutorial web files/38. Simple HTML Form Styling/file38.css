@@ -1,0 +1,20 @@
+
+div {
+    background-color: darkgrey;
+    padding: 10px;
+}
+
+input[type=text]{
+    width: 100%;
+    background-color: darkred;    
+}
+
+input[type=submit]{
+    margin-top: 5px;
+    width:100%;    
+    background-color: green;
+}
+
+input[type=submit]:hover{
+    opacity: 0.5;    
+}

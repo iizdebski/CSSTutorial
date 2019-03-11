@@ -1,0 +1,14 @@
+/*p::first-line {
+    font-size: 40px;
+    background-color: chocolate;    
+}
+p::first-letter{
+    font-size: 8px;
+    background-color: yellow;
+}
+p::after{
+    content: url(https://www.sciencenews.org/sites/default/files/main/articles/100315_coffee_opener_NEW_0.jpg)
+}*/
+p::before{    
+    content:url()
+}

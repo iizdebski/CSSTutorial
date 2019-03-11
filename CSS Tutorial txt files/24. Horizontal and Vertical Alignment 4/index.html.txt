@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="">
+<head>   
+    <title>CSS Tutorial - Horizontal and Vertical Alignment 4</title>
+    
+    <link rel="stylesheet"
+          href="file24.css">
+</head>
+
+<body>
+    
+    <div id="one"></div>
+ 
+    
+</body>
+</html>

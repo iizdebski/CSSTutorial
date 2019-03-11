@@ -1,0 +1,42 @@
+.one{
+    background-color: burlywood;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px green;
+}
+
+.two{
+    background-color: yellow;
+    font-size: 24px;
+    padding: 12px;
+    border-radius:20px;
+    border: 2px solid black;
+        box-shadow: 5px 5px 5px green;
+}
+
+.three{
+    background-color: red;
+    font-size: 28px;
+    padding: 14px;
+    border-radius:50%;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px green;
+}
+
+button:hover{
+    background-color: blue;
+    opacity:0.6;
+    transition: 1s;
+    
+}
+#boring {
+    cursor:not-allowed;
+}
+
+button{
+    width: 100px;
+    //display:block;
+    float:left;
+}

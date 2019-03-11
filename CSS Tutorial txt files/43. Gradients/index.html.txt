@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+    <title>Gradients
+    </title>
+    
+    <link rel="stylesheet"
+          href="file43.css">
+</head>
+
+<body>
+    
+    <div></div>
+    
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+    <meta charset="utf-8">
+    <title>My First WebSite</title>
+    <link rel="stylesheet"          
+          href="file49.css">
+</head>
+
+<body>   
+    <div class="header">
+        <h1>My First Site</h1>   
+    </div>
+    <div class="container">
+        <div class="leftside">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Info</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>        
+        </div>
+        <div class="rightside">
+            <h2>Welcome to my first website</h2>
+            <p>This is the most amazing website ever</p>       
+        </div>
+    </div>
+    
+    <div class="footer">
+        <p> copyright &copy;
+        Ivan Izdebski</p>
+    </div>
+        
+</body>
+</html>

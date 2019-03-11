@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="">
+<head>    
+    <title>CSS Tutorial - Selectors
+    </title>
+    
+    <link rel="stylesheet"
+          href="file26.css">
+    </head>
+
+<body>
+    
+    <div>
+        <p>I'm Paragraph</p>
+        <p>I'm Paragraph</p>  
+        <span><p>I'm Paragraph</p></span>
+    </div>
+    <p>I'm Paragraph</p>
+    <p>I'm Paragraph</p>
+    
+</body>
+</html>

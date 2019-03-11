@@ -1,0 +1,5 @@
+
+h1 {
+display: none; //display:none підкидає догори
+//visibility: hidden;
+}

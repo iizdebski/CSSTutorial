@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="">
+<head>    
+    <title>Horizontal and Vertical 
+        Alignment 2</title>
+
+    <link rel="stylesheet" href="file22.css">
+    
+    
+    </head>
+
+<body>
+    
+    <div>Hey put in center</div>
+    <img src=https://ae01.alicdn.com/kf/HTB1dyCgkcnI8KJjSsziq6z8QpXal/Diamond-Embroidery-Painting-Coffe-Time-5D-Full-Drill-Diamond-Mosaic-Cross-Stitch-Pasted-Painting-DIY-Home.jpg>
+    
+</body>
+</html>

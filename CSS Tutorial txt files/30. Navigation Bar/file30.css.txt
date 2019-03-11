@@ -1,0 +1,24 @@
+ul{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+}
+
+li a{
+    display: block;    
+    width: 100px;
+    margin:5px;
+    text-decoration: none;
+    border: 2px solid red;
+    text-align: center;
+    background-color: yellow;
+}
+
+li a:hover:not(.active){
+    background-color: aqua;
+    opacity:0.3;
+}
+.active {
+    background-color: coral;    
+    color:black;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+    <title>CSS Tutorial - Brackets 
+            Quick Edit</title>
+<link rel="stylesheet"
+href="main.css">
+</head>
+
+<body>
+<p id="first">MBT Revolution</p>
+<p>MBT Revolution</p>
+<p>MBT Revolution</p>
+<p>MBT Revolution</p>
+<h1>I am the great developer</h1>
+<h1>I am the great developer</h1>
+<h1>I am the great developer</h1>
+<h1>I am the great developer</h1>
+<h1>I am the great developer</h1>
+
+<a 
+href="http://www.google.com">Google</a>
+</body>
+</html>

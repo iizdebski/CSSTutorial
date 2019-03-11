@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="">
+<head>   
+    <title>Fixed Navbar
+    </title>
+    
+    <link rel="stylesheet"
+          href="file31.css">
+</head>
+
+<body>
+    <ul>
+        <li><a class="active" href="#">Home</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Home</a></li>
+    </ul>
+    
+    <div>
+        Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to Asia.[3] After water, it is the most widely consumed drink in the world. [4] There arte many different types of tea; some teas, like Darjeeling and Chinese greens, have a cooling, slightly bitter, and astringent flavour, [5] while others have vastly different profiles that include sweet, nutty, floral or grassy notes.
+    </div>
+    
+</body>
+</html>

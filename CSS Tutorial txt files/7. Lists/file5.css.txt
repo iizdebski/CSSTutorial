@@ -1,0 +1,27 @@
+
+.one {
+    list-style: none;
+}
+
+/*.two {
+    list-style-position: inside;
+    background-color: red;
+}
+.two li{
+    background-color: aqua;
+} */
+
+ul{
+    background-color: aqua;
+}
+
+ol{
+    background-color: red;
+}
+ul li{
+    background-color: yellow;
+}
+
+ol li{
+    background-color: yellow;
+}

@@ -1,0 +1,42 @@
+
+ul {
+    list-style-type: none;   
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+    border: 2px solid red;
+}
+
+li a,.btn{
+    display: inline-block;
+    color: green;
+    text-align: center;    
+    padding: 10px;
+    text-decoration: none;    
+}
+
+.container{
+    display: inline-block;
+}
+
+.content{
+    display: none;
+    position: absolute;
+    z-index: 1;
+    background-color: aqua;
+}
+
+.content a{
+    color:blueviolet;
+    text-decoration: none;
+    display: block;
+}
+
+.container:hover .content{
+    display: block;
+}

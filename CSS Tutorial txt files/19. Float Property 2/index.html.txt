@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+    <title>CSS Tutorial - Float 
+        Property 2</title>
+
+    <link rel="stylesheet"
+          href="file19.css">    
+    </head>
+
+<body>
+    <div id="container">    
+    <img src="https://www.vegrecipesofindia.com/wp-content/uploads/2013/02/ginger-tea-recipe-2.jpg"
+         width="50" height="100">
+    
+    <div id="one">
+        Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the camellia sinensis, an evergreen hsrub native to Asia.[3] After water, it is the most widely consumed drink in the world.[4]</div>
+    </div>   
+    </body>
+</html>

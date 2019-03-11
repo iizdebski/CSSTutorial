@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="">
+<head>   
+    <title>Simple HTML Form Styling
+    </title>
+    
+    <link rel="stylesheet" href="file38.css">
+</head>
+
+<body>
+    
+    <div>
+    
+    <form action="" method="">
+        <label for="name">Name</label>
+        <input type=text id="name"
+               name="firstname" placeholder="Name...">
+        
+        <label for="lastname">Name</label>
+        <input type=text id="lastname" 
+        name="firstname" placeholder="Last Name...">  
+        
+        <input type="submit" value="SUBMIT PLEASE">
+        
+        </div>      
+        
+    </form>
+    
+</body>
+</html>

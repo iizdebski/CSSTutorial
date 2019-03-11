@@ -1,0 +1,23 @@
+h1 {
+    background-color: red;
+}
+
+h6{
+    background-color: red;
+}
+
+span{
+    background-color: aqua;
+}
+
+a{
+    background-color: aqua;
+    display: block;
+}
+p{
+    background-color:red
+}
+li {
+    background-color:  chocolate;
+    display: inline;
+}

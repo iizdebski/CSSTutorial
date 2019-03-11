@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="">
+<head>   
+    <title>CSS Tutorial - Font Size </title>
+    <link rel="stylesheet" href="file3.css">
+</head>
+
+<body>
+    <p id="one">MBT Revolution I'm always 24 px</p>
+    <p id="two">MBT Revolution I'm always 150%</p>
+    <p id="three">MBT Revolution I'm always 200%</p>    
+</body>
+</html>

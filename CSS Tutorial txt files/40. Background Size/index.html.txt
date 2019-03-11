@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="">
+<head>  
+    <title>Background Size
+    </title>
+    
+    <link rel="stylesheet"
+          href="file40.css">
+</head>
+
+<body>
+    
+    <div></div>
+    
+</body>
+</html>

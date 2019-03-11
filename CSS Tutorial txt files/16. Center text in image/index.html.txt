@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <title>CSS Tutorial - Center Text 
+        in Image
+    </title>
+    <link rel="stylesheet"
+          href="file16.css">
+</head>
+
+<body>
+    <div id="container">
+        <img src=https://www.chainstoreage.com/wp-content/uploads/2017/03/walmart_shopper_toyAisle.jpg>
+        <h1>Nice Pants</h1>
+    
+        
+    </div>    
+</body>
+</html>

@@ -1,0 +1,16 @@
+a:link {
+    background-color:#f44336;    
+    color:white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+a:visited{
+    color:black;
+    background-color: rgba(37, 37, 248, 0.22);
+}
+
+a:hover, a:active{
+    color:blue;
+    background-color:black;
+}

@@ -1,0 +1,13 @@
+
+h1 {
+    color:red;
+    text-align:right;
+}
+
+p {
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent:25px;    
+    word-spacing: 5px;
+    line-height: 30px;    
+}

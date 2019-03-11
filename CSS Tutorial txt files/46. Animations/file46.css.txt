@@ -1,0 +1,19 @@
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    animation-name: hello;
+    animation-duration: 4s;
+    animation-delay: 3s;
+    animation-iteration-count: 4;
+}
+
+@keyframes hello{
+    //from{background-color: coral;}  
+    //to{background-color: black;}   
+    0%{background-color: coral;}  
+    20%{background-color: black;} 
+    40%{background-color: red;} 
+    100%{background-color: yellow;} 
+}

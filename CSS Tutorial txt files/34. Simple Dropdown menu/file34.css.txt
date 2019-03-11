@@ -1,0 +1,17 @@
+
+.drop {
+    position:relative;
+    display:inline-block;
+}
+
+.content {
+    display:none;
+    position: absolute;   
+    background-color: red;
+    padding: 10px;
+    z-index: 1;
+}
+.drop:hover .content{
+    display: block;
+    
+}

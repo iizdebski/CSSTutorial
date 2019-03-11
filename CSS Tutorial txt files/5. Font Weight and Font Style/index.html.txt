@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+    <title>CSS Tutorial - Font Weight and Font Style</title>
+    <link rel="stylesheet" href="file3.css">
+</head>
+
+<body>
+    <p id="bold">This is the best article ever - Bold</p>
+    <p id="italic">This is the best article ever - Italic</p>
+</body>
+</html>
